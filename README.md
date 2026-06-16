@@ -45,7 +45,7 @@
 
 [Apache Airflow](https://airflow.apache.org/docs/apache-airflow/stable/) (or simply Airflow) is a platform to programmatically author, schedule, and monitor workflows.
 
-When workflows are defined as code, they become more maintainable, versionable, testable, and collaborative.
+When workflow are definedn as code, they become more maintainable, versionable, testablem and collaborative.
 
 Use Airflow to author workflows (Dags) that orchestrate tasks. The Airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on Dags a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed.
 
